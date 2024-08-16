@@ -1,4 +1,4 @@
 [submodule "langchain-database-description-application"]
 	path = langchain-database-description-application
 	url = https://github.com/upjohnc/langchain-database-description-application.git
-	branch = master
+	branch = test_submodule

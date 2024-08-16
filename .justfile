@@ -12,4 +12,8 @@ branch-it branch:
     git submodule sync
     git submodule update --init --recursive --remote
 
+submodule-update:
+        git submodule update --init --recursive
 
+submodule-init:
+        git submodule init
