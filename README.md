@@ -23,3 +23,8 @@ need to make sure submodule is update
 or
 `git pull --recurse-submodules`
 
+
+
+what done:
+git submodule add https://github.com/upjohnc/langchain-database-description-application.git
+update submodule git submodule update --init --recursive
